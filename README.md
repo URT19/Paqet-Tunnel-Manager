@@ -43,6 +43,9 @@ sudo ./paqet-manager.sh
 ```
 ----
 
+
+### Install Custom Version 
+
 ```
 0.⚙  Install Paqet Binary / Manager
 ```
