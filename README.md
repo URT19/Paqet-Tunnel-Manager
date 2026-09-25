@@ -61,7 +61,29 @@ https://github.com/behzadea12/Paqet-Tunnel-Manager/releases/download/PaqetOptimi
 ```
 
 ---
-
+FIRST
 ### Server Kharej
 
 2.🌍 Configure as Server (kharej)
+
+
+
+THEN SERVER IRAN
+
+----
+
+### Tunnel Speed Test
+
+#### SERVER KHAREJ
+
+```
+iperf3 -s -p 9090
+```
+
+
+#### SERVER IRAN
+
+```
+iperf3 -c 127.0.0.1 -p 9090 -t 10
+```
+
