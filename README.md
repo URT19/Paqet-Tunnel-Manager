@@ -37,7 +37,11 @@ https://t.me/BehzadEa12
 Run the script on **both servers** as **root**:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/behzadea12/Paqet-Tunnel-Manager/main/paqet-manager.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/URT19/Paqet-Tunnel-Manager/refs/heads/main/paqet-manager.sh)
+```
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/URT19/Paqet-Tunnel-Manager/refs/heads/main/paqet-manager_v7.sh)
 ```
 
 ---
