@@ -40,6 +40,17 @@ Run the script on **both servers** as **root**:
 bash <(curl -fsSL https://raw.githubusercontent.com/URT19/Paqet-Tunnel-Manager/refs/heads/main/paqet-manager.sh)
 ```
 
+Custom Core
+
+[*] Paqet Core Installation
+
+3) Download from custom URL
+
+```
+https://github.com/behzadea12/Paqet-Tunnel-Manager/releases/download/PaqetOptimized/paqet-linux-amd64-v2.2.0-optimize.tar.gz
+```
+
+
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/URT19/Paqet-Tunnel-Manager/refs/heads/main/paqet-manager_v7.sh)
 ```
