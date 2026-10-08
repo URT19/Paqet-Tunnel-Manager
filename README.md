@@ -56,6 +56,11 @@ sudo ./paqet-manager.sh
 3) Download from custom URL
 ```
 
+### VERSION 2.5
+```
+https://github.com/behzadea12/Paqet-Tunnel-Manager/releases/download/v2.5.0/paqet-linux-amd64-v2.5.0.tar.gz
+
+```
 ```
 https://github.com/behzadea12/Paqet-Tunnel-Manager/releases/download/PaqetOptimized/paqet-linux-amd64-v2.2.0-optimize.tar.gz
 ```
